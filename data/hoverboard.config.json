@@ -1,14 +1,14 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "https://bayern.devfest.de/",
+  "startDate": "2017-11-25T08:00:00+03:00",
+  "endDate": "2017-11-25T23:59:00+03:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-103817942-1",
+    "dev": "UA-103817942-2"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Android Munich",
+    "twitter": "gdgmucandroid"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -16,28 +16,28 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "devfest-bayern",
+    "domain": "devfest-bayern.firebaseapp.com",
+    "database": "https://devfest-bayern.firebaseio.com",
+    "api": "AIzaSyBrUkFQQ0GC-ARPtK1qED-KYYQmMjUCcvY",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=",
+    "name": ""
   },
   "dateFormat": {
-    "locale": "en-US",
+    "locale": "de-DE",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
-  "disqusShortName": "hoverboard-gdg-x",
+  "hashtag": "DevFestBayern",
+  "disqusShortName": "beerFest",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
-  "enableSessionsRating": true,
+  "partnershipProposition": "http://bit.ly/2uYnCu2",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PL9bGwQeLbWZSjXetP1f692MeO-lXhWnBd",
+  "enableSessionsRating": false,
   "navigation": [
     {
       "route": "home",
@@ -63,38 +63,33 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGMucAndroid",
+      "url": "https://twitter.com/GDGMucAndroid"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "115160714098008559164",
+      "url": "https://plus.google.com/115160714098008559164"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDG.Munich.Android",
+      "url": "https://www.facebook.com/GDG.Munich.Android"
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "Burda Bootcamp",
+    "address": "Arabellastraße 23, 81925 Munich, Germany",
+    "link": "https://www.facebook.com/burdabootcamp/",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 15
+      "latitude": 48.150284,
+      "longitude": 11.622482,
+      "zoom": 13
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 48.1504291,
+      "longitude": 11.6229568
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -121,7 +116,7 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "GDG DevFest Bavaria 2017",
           "youtubeId": "TdpbgRgz6eE",
           "text": "See how it was in 2016"
         },
