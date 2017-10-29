@@ -1,0 +1,17 @@
+GDG DevFest Bavaria 2017 announced! For the 1st Time we have this converence for Bavaria! It will take place at Burda Bootcamp in Munich on **November 25th**.
+
+That means that it is time to open [call for talk submissions](http://bit.ly/DevFestBayernCfP). If you are passionate about your work and want to share your experience with the biggest tech audience in Bavaria, you knocked on the right door.
+
+
+**Call for Papers will stay open until August 27th, 2017.** Don’t miss out :)
+
+<div class="text-center">
+<a href="http://bit.ly/DevFestBayernCfP" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
+</a>
+</div>
+<br/>
+
+**Please note:** There is no guarantee that a submission will be put onto the conference agenda! The program committee picks the most interesting talk proposals and informs the selected submitters until September 3rd, 2017.
+
+Any questions? Email organizers at [bayern.devfest@gmail.com](mailto:bayern.devfest@gmail.com)
