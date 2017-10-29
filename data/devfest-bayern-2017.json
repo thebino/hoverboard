@@ -471,7 +471,9 @@
     "tags" : [ "Android" ],
     "title" : "Technology Evangelist"
   }, {
-    "bio" : "tbd",
+    "bio" : "Lead Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualization hobbyist, working on problems not only in working time but also for fun. Organiser of Hacking Machine Learning meetup.
+
+Speaker at different conferences: Berlin Buzzwords 2014, ApacheCon Europe 2014, Puppet Camp London 2015, Munich Developer Camp, Berlin Buzzwords 2015, Tableau Conference on Tour - Berlin 2015, Budapest BI forum 2015, CrunchConf 2015, FOSDEM 2016, PyData Amsterdam 2016, Dahoam 2017, Devfest Ukraine 2017 etc",
     "company" : "STYLIGHT",
     "country" : "Munich, Germany",
     "featured" : true,
@@ -595,7 +597,7 @@
   }, {
     "badges" : [ {
       "description" : "Android Google Developer Expert",
-      "link" : "https://developers.google.com/experts/people/juhani-lehtimaeki",
+      "link" : "https://developers.google.com/experts/people/juhani-lehtim-ki",
       "name" : "GDE"
     } ],
     "bio" : "Android enthusiast. Developer. Design fanboy. Blogger at http://www.androiduipatterns.com/",
@@ -638,6 +640,11 @@
     "tags" : [ "Android" ],
     "title" : ""
   }, {
+    "badges" : [ {
+      "description" : "IoT, Assistant Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/bob-van-luijt",
+      "name" : "GDE"
+    } ],
     "bio" : "Bob (GDE) is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree. Bob helps other companies find new business opportunities by implementing and researching new technologies, such as Internet of Things, machine learning, and more. Bob also blogs and makes tech-art installations, which you can read about on his website - or follow his activity on Github. Currently, Bob is hired to lead the global Internet of Things platform endeavour at the ING Bank, part of ING’s corporate accelerator to create the first artificial intelligence led business models and consultant for several enterprises in Europe.",
     "company" : "Kubrickology",
     "country" : "Amsterdam, North Holland",
