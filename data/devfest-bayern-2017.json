@@ -1,0 +1,804 @@
+{
+  "partners" : [ {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/gdg-lviv.svg",
+      "name" : "GDG Lviv",
+      "url" : "https://plus.google.com/102444623953913144164",
+      "width" : 170
+    } ],
+    "title" : "Template Creator"
+  }, {
+    "logos" : [ {
+      "logoUrl": "../images/partner-quartett-logo.svg",
+      "name": "Quartett mobile",
+      "url": "https://www.quartett-mobile.de",
+      "width": 370
+    },{
+      "logoUrl": "../images/partner-snappmobile-logo.svg",
+      "name": "SnappMobile",
+      "url": "https://www.snappmobile.io",
+      "width": 370
+    } ],
+    "title" : "Partner"
+  } ],
+  "schedule" : [ {
+    "date" : "2017-11-25",
+    "dateReadable" : "November 25",
+    "timeslots" : [ {
+      "endTime" : "10:00",
+      "sessions" : [ [ 101 ] ],
+      "startTime" : "09:00"
+    }, {
+      "endTime" : "10:15",
+      "sessions" : [ [ 102 ] ],
+      "startTime" : "10:00"
+    }, {
+      "endTime" : "10:55",
+      "sessions" : [ [ 103 ] ],
+      "startTime" : "10:15"
+    }, {
+      "endTime" : "11:50",
+      "sessions" : [ [ 104 ], [ 105 ] ],
+      "startTime" : "11:10"
+    }, {
+      "endTime" : "12:40",
+      "sessions" : [ [ 106 ], [ 107 ] ],
+      "startTime" : "12:00"
+    }, {
+      "endTime" : "13:10",
+      "sessions" : [ [ 108 ], [ 109 ] ],
+      "startTime" : "12:50"
+    }, {
+      "endTime" : "13:50",
+      "sessions" : [ [ 110 ] ],
+      "startTime" : "13:10"
+    }, {
+      "endTime" : "14:40",
+      "sessions" : [ [ 111 ], [ 112 ] ],
+      "startTime" : "14:00"
+    }, {
+      "endTime" : "15:10",
+      "sessions" : [ [ 113 ], [ 114 ] ],
+      "startTime" : "14:50"
+    }, {
+      "endTime" : "16:00",
+      "sessions" : [ [ 115 ], [ 116 ] ],
+      "startTime" : "15:20"
+    }, {
+      "endTime" : "16:20",
+      "sessions" : [ [ 117 ] ],
+      "startTime" : "16:00"
+    }, {
+      "endTime" : "17:10",
+      "sessions" : [ [ 118 ], [ 119 ] ],
+      "startTime" : "16:30"
+    }, {
+      "endTime" : "18:00",
+      "sessions" : [ [ 120 ], [ 121 ] ],
+      "startTime" : "17:20"
+    }, {
+      "endTime" : "23:00",
+      "sessions" : [ [ 122 ] ],
+      "startTime" : "18:00"
+    } ],
+    "tracks" : [ {
+      "title" : "Mobile"
+    }, {
+      "title" : "Not-so-Mobile"
+    } ]
+  } ],
+  "sessions" : {
+    "101" : {
+      "description" : "Opening doors / Registration / Breakfast",
+      "id" : 101,
+      "image" : "/images/backgrounds/registration.jpg",
+      "title" : "Opening doors / Registration / Breakfast"
+    },
+    "102" : {
+      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+      "id" : 102,
+      "image" : "/images/backgrounds/opening.jpg",
+      "title" : "Welcome"
+    },
+    "103" : {
+      "description" : "Keynote",
+      "id" : 103,
+      "title" : "Keynote"
+    },
+    "104" : {
+      "complexity" : "Beginner",
+      "description" : "At I/O this year, the Room persistence library was introduced as part of the Architecture Components effort. In this talk we'll look at what Room has to offer, why and when you should use it and how it compares to existing solutions. We'll also take a look how Room gets the job done by looking at its internals.r",
+      "id" : 104,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 3 ],
+      "tags" : [ "Android" ],
+      "title" : "Room: the blessed object mapper"
+    },
+    "105" : {
+      "complexity" : "Intermediate",
+      "description" : "What is the first thing that comes to your mind when you are starting to develop your product? You need to think about all sort of features. How you are going to grow your app. Engage your audience and make money in the process, right? What if you could choose a platform to build your app with confidence, without the need of managing infrastructure, trusted by companies like The New York Times, The Economist, Shazam and much more. Firebase gives you the tools and infrastructure you need to build better apps and grow businesses. Join this talk and learn how to overcome the challenges of build extraordinary web apps using Firebase.",
+      "id" : 105,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 4 ],
+      "tags" : [ "Web" ],
+      "title" : "Let Firebase help you to build better Web apps"
+    },
+    "106" : {
+      "complexity" : "Beginner",
+      "description" : "Good use of animations can not only help make your app’s UI more intuitive, but can also build emotional attachment with your users. Mark Allison will explore the subtleties of why some animations work where others don’t; The distinct components of effective animation; and, of course, some detailed worked examples of how to create amazing Android animations.",
+      "id" : 106,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 1 ],
+      "tags" : [ "Android" ],
+      "title" : "I like the way you move"
+    },
+    "107" : {
+      "complexity" : "Beginner",
+      "description" : "Using humanoid robots, virtual reality glasses and 3D camera sensors you can experience the world through the eyes of a robot and control it via gestures. The hardware hacking team of TNG Technology Consulting has built a telepresence robotics system based on a Nao robot, an Oculus Rift and a Kinect One. Using these components you can realize an immersive 'out-of-body' experience - similar to that of the film 'Avatar'. This talk shows how easy it is to program the robot using Python or Java. We will do this by some live coding examples. Following a live demonstration of the showcase we will guide you through the complete program flow of the telepresence system. The speakers will share some insights about the challenges they faced during its implementation. The history of telepresence robotics, current trends and examples for real world fields of application will also be focused.",
+      "id" : 107,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 5 ],
+      "tags" : [ "Misc." ],
+      "title" : "Project Avatar - Telepresence robotics with Nao and Kinect"
+    },
+    "108" : {
+      "complexity" : "Beginner",
+      "description" : "ObjectBox is a new mobile database designed for objects and performance. It supports reactive programming, lazy and eager relations, Kotlin, and POJOs. The Speaker Markus Junginger is also the developer behind the successful open source libraries EventBus and greenDAO, used by 25% of top-500 apps. Although greenDAO is still the most starred Android ORM on GitHub, Markus left SQLite and ORMs behind - learn why he created a new database without rows and columns.",
+      "id" : 108,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 6 ],
+      "tags" : [ "Android" ],
+      "title" : "CRUD faster with ObjectBox"
+    },
+    "109" : {
+      "complexity" : "Beginner",
+      "description" : "This talk will give you an introduction to Googles augmented reality SDK Tango. The session will start with a few example ar apps to give everybody an impression what augmented reality is. After that we will have a closer look on the special device hardware sensors every tango enabled smartphone must have. We will explore the three core tango technologies - motion tracking, area learning and depth perception followed by  some examples showing the tango Java SDK. We will learn about occlusion to make the ar effect even more stunning. If nothing goes wrong, the session will end with a short live demo.",
+      "id" : 109,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 7 ],
+      "tags" : [ "Misc." ],
+      "title" : "Google Tango - Getting started with augmented reality"
+    },
+    "110" : {
+      "complexity" : "Beginner",
+      "description" : "Lunch",
+      "id" : 110,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 7 ],
+      "tags" : [ "General" ],
+      "title" : "Lunch"
+    },
+    "111" : {
+      "complexity" : "Intermediate",
+      "description" : "In this session, we cover what's needed to bring your Media Streaming app to the living room the easiest way possible: we’ll see how to create high performing Android Media Streaming apps in MINUTES using a new development tool Amazon has created: the Fire App Builder template for Android Apps for TV (http://bit.ly/FireAppBuilderDoc). Using this new tool introduced by Amazon, we’ll understand how to easily connect a native Android app to video streaming services with just a few lines of code! -Build a full-fledged Android app for TV in a few minutes by connecting it to a feed - Customize the template - Add modules for IAP, Subscription, Live Streaming, Ads and much more - Submit the app!",
+      "id" : 111,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 8 ],
+      "tags" : [ "Android" ],
+      "title" : "Developing Media Streaming Apps for TV the Easy Way"
+    },
+    "112" : {
+      "complexity" : "Beginner",
+      "description" : "The Hitchhiker's Guide to Tensorflow: from Tensors to running models in production",
+      "id" : 112,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 9 ],
+      "tags" : [ "Machine Learning" ],
+      "title" : "The Hitchhiker's Guide to Tensorflow: from Tensors to running models in production"
+    },
+    "113" : {
+      "complexity" : "Intermediate",
+      "description" : "Dependency injection is a powerful pattern. By providing different implementations, the behavior of the app can be radically changed. Another place where it shines is testing. When testing a module, fake or mocked objects can be injected to ensure the module is tested in isolation. The most popular dependency injection framework for Android is Dagger 2. It gives us powerful functionality for managing dependencies.  However, until recently it required some ugly boilerplate code. In this talk, we will explore the usage of the new Dagger Android functionality. We will: - go through the Dagger Android module and will see how it can be used in Android applications; - compare the differences between how code looks like with using this module and usual way of using Dagger in Android; - talk about how this module helps with integration tests.e",
+      "id" : 113,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 10 ],
+      "tags" : [ "Misc." ],
+      "title" : "Dagger Android module"
+    },
+    "114" : {
+      "complexity" : "Intermediate",
+      "description" : "Apple announced at WWDC17 with iOS 11 CoreML. This allows you to integrate trained machine learning models into your iOS app. It has a minimizes memory footprint and power consumption and is optimized for on-device performance. In my talk I'll show how to train a very simple model and how to integrate it into a mobile app. Another demo will use InceptionV3 as pre-trained model and ARKit for augmented reality visualization.",
+      "id" : 114,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 11 ],
+      "tags" : [ "Machine Learning" ],
+      "title" : "Using a trained model on your mobile device"
+    },
+    "115" : {
+      "complexity" : "Beginner",
+      "description" : "How do you satisfy your users? How do you make your app users happy? How can I make them use my awesome smart app and/or make them come back... But who are my app users, and what do they do with my app or want to see happen? Wiebe Elsinga will share is experience on how to satisfy your users and know what they want",
+      "id" : 115,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 2 ],
+      "tags" : [ "Android" ],
+      "title" : "Delight(ing) your user(s)"
+    },
+    "116" : {
+      "complexity" : "Beginner",
+      "description" : "With Google Home being available in Germany since August and the Assistant being available on most Android and iOS devices it’s time to start developing apps for it. In this talk Wolfram Rittmeyer is going to talk about the Actions on Google SDK. As with Android we as developers deal with intents representing certain types of user input. And we have to create appropriate reactions to them. You will see how to: - make the assistant speak - ask for permissions - display carousels, cards or lists on devices that support a GUI - detect device specific capabilities - offer different content based on those capabilities. Google offers two ways to create apps for the assitant. You will hear about when to use the Assistant SDK and where it differs from creating apps with api.ai. And don’t forget: Just because it’s “just voice” doesn’t mean that you can neglect usability. There’s a whole set of recommendations and best practices for conversational interfaces. This talk covers a sample few of them to get you started and to make you mindful of this topic.",
+      "id" : 116,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 12 ],
+      "tags" : [ "Misc" ],
+      "title" : "Writing apps for the Google Assistant"
+    },
+    "117" : {
+      "complexity" : "Beginner",
+      "description" : "Coffee break / snacks",
+      "id" : 117,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "tags" : [ "General" ],
+      "title" : "Coffee break / snacks"
+    },
+    "118" : {
+      "complexity" : "Intermediate",
+      "description" : "Welcome to Kotlin, the open source, statically typed programming language for multi platform applications. This gonna be a big and exciting journey. To start with, we have an introduction to the language, no matter you target native, JVM, Android or JavaScript. It covers basic syntax, type inference, lambdas, inline functions, data classes, statically typed DSLs, and much more. An introduction is impossible without stories and future plans. In addition I’ll share my own Kotlin experience and several open source projects I created with it.",
+      "id" : 118,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 13 ],
+      "tags" : [ "Android" ],
+      "title" : "Kotlin in 42 minutes"
+    },
+    "119" : {
+      "complexity" : "Intermediate",
+      "description" : "An application’s performance significantly influences its acceptance and therefore also its commercial success. However, there is no simple adjustable screw for performance tuning in single-page applications: several influencing factors need to be considered. Angular addresses these aspects with its architecture and offers some possibilities to provide breathtaking performance. This session shows how to use these possibilities by means of a systematically optimized application. Attendees learn how to leverage Ahead-of-Time Compilation (AOT), Tree Shaking and Lazy Loading to dramatically improve application startup performance. The OnPush optimization strategy to speed up data binding performance in your solutions is also demonstrated. Furthermore, Service Worker for caching and instant loading is covered, as well as Server-Side Rendering to improve the perceived loading time.",
+      "id" : 119,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 14 ],
+      "tags" : [ "Web" ],
+      "title" : "Through the Sound Barrier: High-Performance Applications with Angular"
+    },
+    "120" : {
+      "complexity" : "Beginner",
+      "description" : "How to bring a product to reality in a few days: design-dev cooperation and fast Android prototyping",
+      "id" : 120,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 16, 17 ],
+      "tags" : [ "Web" ],
+      "title" : "How to bring a product to reality in a few days: design-dev cooperation and fast Android prototyping"
+    },
+    "121" : {
+      "complexity" : "Intermediate",
+      "description" : "In some forms of philosophy, it is believed that language determines the scope of human intelligence. If there are no words to express it, it can not be understood. On the web, this is something that is known for quite some time. The Semantic Web, coined by Tim Berners-Lee, was a first and important step in gathering the vast amount of knowledge available on the web.In this talk, we will look not only at the digital but the physical. How can the Internet of Things help us to create a knowledge repository to understand the world? How can we use tools like the cloud (GCP), graph-databases and schema.org (Google’s RDF-IoT extension) and what can we learn from social networks like Facebook and Google+ to truly understand our world. We will look at classical IoT and new forms of IoT. 'Devices are so 2017, the future is a semantic Internet of Things'",
+      "id" : 121,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "speakers" : [ 18 ],
+      "tags" : [ "Misc." ],
+      "title" : "A Semantic Internet of Things"
+    },
+    "122" : {
+      "complexity" : "Beginner",
+      "description" : "Social / Beers",
+      "id" : 122,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/",
+      "tags" : [ "General" ],
+      "title" : "Social / Beers"
+    }
+  },
+  "speakers" : [ null, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/mark-allison",
+      "name" : "GDE"
+    } ],
+    "bio" : "Mark Allison is a GDE for Android and software engineer with over 30 years’ experience. He is passionate about providing the user with the best possible experience. He has developed both server and client side, most commonly Android on the client side, but with also for iOS, HTML5, Symbian, and J2ME. Mark writes a technical blog (http://blog.stylingandroid.com) which focuses on Android UI/UX topics, but often covers more general Android development techniques.   When not being geeky, Mark likes to unwind by hurling abuse at football referees, specifically those who are unkind to his beloved Watford FC with whom he holds a season ticket. He also has a deep love of the chilli pepper and consumes spicy food (his favourite being Indian) at every opportunity! Mark also loves single malt whisky. Buy him one and you'll have a friend for life!  Mark is happily married with a grown up step-daughter, and lives in Hertfordshire, UK.",
+    "company" : "Styling Android Limited",
+    "country" : "Hertfordshire, United Kingdom",
+    "featured" : true,
+    "id" : 1,
+    "name" : "Allison, Mark",
+    "photoUrl" : "/images/people/mark_allison.jpg",
+    "shortBio" : "Mark is a Google Developer Expert for Android",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/markiallison",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://t.co/a0rtcuYXuW",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Developer Advocate"
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/wiebe-elsinga",
+      "name" : "GDE"
+    } ],
+    "bio" : "Besides being a Google Developer Expert for Android, Wiebe Elsinga is a Lead Developer at Egeniq in The Netherlands. He has a passion for UX and design. He regularly speaks at Mobile Developer conferences, or is giving workshops. And let’s not forget a co-founder/organizer of the GDG Dutch Android User Group.  Side note: Whiskey lover",
+    "company" : "Egeniq",
+    "country" : "Utrecht Area, Netherlands",
+    "featured" : true,
+    "id" : 2,
+    "name" : "Elsinga, Wiebe",
+    "photoUrl" : "/images/people/wiebe_elsinga.png",
+    "shortBio" : "Wiebe is a Google Developer Expert for Android and Whiskey lover",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/welsinga",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "http://wiebe-elsinga.com/",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Developer Advocate"
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/hugo-visser",
+      "name" : "GDE"
+    } ],
+    "bio" : "Hugo is a software engineer who has worked on enterprise, desktop and mobile software products. Since the introduction of Android he has been steadily focussing on developing for Android only, resulting in his first app in 2009. Hugo has released several open source libraries and tools to help him and other developers build better software. He’s a Google Developer Expert for Android and one of the organizers of the Dutch Android User Group. With his company Little Robots, he focuses on smart use of Android in every possible way.",
+    "company" : "Little Robots",
+    "country" : "Netherlands",
+    "featured" : true,
+    "id" : 3,
+    "name" : "Visser, Hugo",
+    "photoUrl" : "/images/people/hugo_visser.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/botteaap",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://www.littlerobots.nl/blog",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Main Robot"
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/juarez-filho",
+      "name" : "GDE"
+    } ],
+    "bio" : "Passionate about traveling and also to share his adventures with Web Technologies and Firebase. As a Google Developer Expert he’s helping communities all over the world to learn, discover and have fun.",
+    "company" : "Tidy",
+    "country" : "Brazil",
+    "featured" : true,
+    "id" : 4,
+    "name" : "Filho, Juarez",
+    "photoUrl" : "/images/people/filho_juarez.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/juarezpaf",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://plus.google.com/+JuarezPAFilho",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Front-end Engineer"
+  }, {
+    "bio" : "Martin Förtsch is an IT-consultant of TNG Technology Consulting GmbH based in Unterföhring near Munich who studied computer sciences. Occupational his focus areas are Agile Development (mainly) in Java, Search Engine Technologies, Information Retrieval and Databases. As an Intel Software Innovator and Intel Black Belt Software Developer he is strongly involved in the development of open-source software for gesture control with 3D-cameras like e.g. Intel RealSense and has built an Augmented Reality wearable prototype device with his team based on this technology. Furthermore, he gives many talks on national and international conferences about Internet of Things, 3D-camera technologies, Augmented Reality and Test Driven Development as well and was awarded with the JavaOne Rockstar award. He is an author for the technical blog ParrotsOnJava.com.",
+    "company" : "TNG Technology Consulting GmbH",
+    "country" : "Munich, Germany",
+    "featured" : true,
+    "id" : 5,
+    "name" : "Förtsch, Martin",
+    "photoUrl" : "/images/people/martin_foertsch.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/martinfoertsch",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "http://parrotsonjava.com",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Misc.", "Augmented Reality" ],
+    "title" : ""
+  }, {
+    "bio" : "Soon after Markus Junginger became one of the first Android app developers in 2007, he started open source libraries like EventBus and greenDAO. With 25,000 GitHub stars he’s among the top 1% of Java&Android developers. He’s a high performance fanatic and has an ongoing love/hate relationship with object persistence since he came across Hibernate in his previous live.",
+    "company" : "ObjectBox",
+    "country" : "Munich, Germany",
+    "featured" : true,
+    "id" : 6,
+    "name" : "Junginger, Markus",
+    "photoUrl" : "/images/people/markus_junginger.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/greenrobot_de",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "http://objectbox.io",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "CTO"
+  }, {
+    "bio" : "Christian started Android development way back in 2009 during college when everybody still thought iPhones were the coolest gadgets in town. During his diploma thesis he did a lot of research about concepts of integrating smartphones into vehicles. He currently works at Intech Engineering where he spends his time working on android apps. He is always curious about new technologies, cool gadgets and the latest features of the Android platform. If he sees fancy and well-thought-out user interfaces build upon Material Design, his eyes will start to shine.",
+    "company" : "intech engineering",
+    "country" : "Brunswick, Germany",
+    "featured" : true,
+    "id" : 7,
+    "name" : "Dziuba, Christian",
+    "photoUrl" : "/images/people/christian_dziuba.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/CodeMonkey137",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://plus.google.com/+ChristianDziuba",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Augmented Reality" ],
+    "title" : "Android Developer"
+  }, {
+    "bio" : "Mario Viviani is Technology Evangelist at Amazon Appstore. He started mobile development in 2010, focusing on Android. In 2011 he founded the mobile-focused startup Mariux Apps, where he published more than 90 apps and reached more than 12 million total downloads. In 2013 he was awarded by Google of the Google Developer Expert (GDE) title for Android, and has spoken at worldwide events including Droidcon, Casual Connect, Big Android BBQ and Google I/O. In 2015 he joined Amazon where, as Technology Evangelist, engages with the EU and global mobile developer community, presents Amazon newest technologies and ensures mobile app developers are up-to-date on Amazon devices and services.",
+    "company" : "Amazon",
+    "country" : "London, United Kingdom",
+    "featured" : true,
+    "id" : 8,
+    "name" : "Viviani, Mario",
+    "photoUrl" : "/images/people/mario_viviani.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/mariuxtheone",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Technology Evangelist"
+  }, {
+    "bio" : "tbd",
+    "company" : "STYLIGHT",
+    "country" : "Munich, Germany",
+    "featured" : true,
+    "id" : 9,
+    "name" : "Khomenko, Sergii",
+    "photoUrl" : "/images/people/sergii_khomenko.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/lc0d3r",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Machine Learning" ],
+    "title" : "Android Developer"
+  }, {
+    "bio" : "Software engineer with 6+ years experience in mobile development. Currently working as Android developer at Freeletics GmbH (Munich, Germany).",
+    "company" : "Freeletics",
+    "country" : "Munich, Germany",
+    "featured" : true,
+    "id" : 10,
+    "name" : "Khmelenko, Dmytro",
+    "photoUrl" : "/images/people/dmytro_khmelenko.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "website",
+      "link" : "https://dkhmelenko.github.io/",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Android Developer"
+  }, {
+    "bio" : "Lars works as Technology Strategist at SAP Hybris in Munich as member of the Hybris Labs team. He is interested in all kinds of new technologies for the Internet of Things (IoT), Arduino, BLE,Raspberry Pi, Minecraft, Machine Learning and more.",
+    "company" : "SAP Hybris",
+    "country" : "Munich, Germany",
+    "featured" : true,
+    "id" : 11,
+    "name" : "Gregori, Lars",
+    "photoUrl" : "/images/people/lars_gregori.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/choas",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://www.youtube.com/watch?v=9ev3xTDEhtw",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Machine Learning" ],
+    "title" : "Technology Strategist"
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/wolfram-rittmeyer",
+      "name" : "GDE"
+    } ],
+    "bio" : "Wolfram is an Android developer since 2012 and has been blogging about it ever since. He’s very active in the Android community, likes to speak at devfests and conferences and is co-organizer of the GDG, Düsseldorf. He also likes to tinker around with IoT stuff. He has experiences with microcontrollers as well as with single board computers. As such Android Things is quite his thing as well. But not everything is tech. As a family guy Wolfram is a proud father of his two sons Linus and Niklas. Funnily they are also a nice source of inspiration when it comes to new ideas for tech use.",
+    "company" : "OpenMinds UG",
+    "country" : "Münster, Germany",
+    "featured" : true,
+    "id" : 12,
+    "name" : "Rittmeyer, Wolfram",
+    "photoUrl" : "/images/people/wolfram_rittmeyer.jpeg",
+    "shortBio" : "tbd",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/RittmeyerW",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "http://www.wolfram-rittmeyer.de",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Misc." ],
+    "title" : ""
+  }, {
+    "bio" : "Eugene has been a Kotlin fun for years, and completed his first production Kotlin code back in 2013. He is passionate about programming, languages, technologies and making this world better. Eugene is a software developer at JetBrains, he also contributes to many open source projects and speaks on Kotlin, Java, GoLang, .NET, Web and native code.",
+    "company" : "JetBrains",
+    "country" : "Germany",
+    "featured" : true,
+    "id" : 13,
+    "name" : "Petrenko, Eugene",
+    "photoUrl" : "/images/people/eugene_petrenko.png",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/jonnyzzz",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://jonnyzzz.com",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Developer"
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/manfred-steyer",
+      "name" : "GDE"
+    } ],
+    "bio" : "Trainer and Consultant with focus on Angular. Google Developer Expert (GDE) who writes for O'Reilly, the German Java Magazine, windows.developer and Heise. Regularly speaks at conferences.",
+    "company" : "SOFTWAREarchitekt.at",
+    "country" : "Graz, Austria",
+    "featured" : true,
+    "id" : 14,
+    "name" : "Steyer, Manfred",
+    "photoUrl" : "/images/people/steyer_manfred.jpeg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/manfredsteyer",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://medium.com/@ManfredSteyer/angular-performance-tuning-article-series-6e3c33707b25",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Trainer and Consultant"
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/juhani-lehtimaeki",
+      "name" : "GDE"
+    } ],
+    "bio" : "Android enthusiast. Developer. Design fanboy. Blogger at http://www.androiduipatterns.com/",
+    "company" : "Snapp Mobile",
+    "country" : "Munich, Germany",
+    "featured" : true,
+    "id" : 16,
+    "name" : "Lehtimäki, Juhani",
+    "photoUrl" : "/images/people/juhani_lehtimaeki.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/lehtimaeki",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://androiduipatterns.com/",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : ""
+  }, {
+    "bio" : "I'm a Product Designer based in Berlin. I like to bring new products to life through a user-centered approach and a problem-solving mindset. I've been working for different product companies like Kuponjo and Onefootball. I'm currently tackling new challenges @ SnappMobile Germany.",
+    "company" : "Snapp Mobile",
+    "country" : "Germany",
+    "featured" : true,
+    "id" : 17,
+    "name" : "Pierluigi Rufo",
+    "photoUrl" : "/images/people/pierluigi_rufo.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/pierluigirufo",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : ""
+  }, {
+    "bio" : "Bob (GDE) is a creative technologist and designer who works at the intersection of technology, design, and art. He started his career as a freelance software developer during his art studies, and founded his company Kubrickology right after receiving his bachelor's degree. Bob helps other companies find new business opportunities by implementing and researching new technologies, such as Internet of Things, machine learning, and more. Bob also blogs and makes tech-art installations, which you can read about on his website - or follow his activity on Github. Currently, Bob is hired to lead the global Internet of Things platform endeavour at the ING Bank, part of ING’s corporate accelerator to create the first artificial intelligence led business models and consultant for several enterprises in Europe.",
+    "company" : "Kubrickology",
+    "country" : "Amsterdam, North Holland",
+    "featured" : true,
+    "id" : 18,
+    "name" : "Bob van Luijt",
+    "photoUrl" : "/images/people/bob_van_luijt.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/bobvanluijt",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://bob.wtf",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "Web", "Misc." ],
+    "title" : "Creative Technologist"
+  } ],
+"team" : [ {
+    "members" : [ {
+      "name" : "Benjamin Stürmer",
+      "photoUrl" : "/images/people/benjamin_stuermer.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+BenjaminStürmer",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/benjamin.stuermer",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/BenjaminStrmer",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://www.stuermer-benjamin.de/",
+        "name" : "Website"
+      } ],
+      "title" : "Website, Sponsors and Photos"
+    }, {
+      "name" : "Juhani Lehtimäki",
+      "photoUrl" : "/images/people/juhani_lehtimaeki.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+JuhaniLehtimäki",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/juhani.lehtimaeki",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/lehtimaeki",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://www.androiduipatterns.com",
+        "name" : "Website"
+      } ],
+      "title" : "Location and Social"
+    }, {
+      "name" : "Sebastian Kaspari",
+      "photoUrl" : "/images/people/sebastian_kaspari.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+SebastianKaspari",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://twitter.com/sebastian.kaspari",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Anti_Hype",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://www.androidzeitgeist.com/",
+        "name" : "Website"
+      } ],
+      "title" : "Speakers"
+    }, {
+      "name" : "Angelo Rüggeberg",
+      "photoUrl" : "/images/people/angelo_rueggeberg.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+AngeloRüggeberg",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/arueggeberg",
+        "name" : "Facebook"
+      } ],
+      "title" : "Party and happiness"
+    }, {
+      "name" : "Sergii Khomenko",
+      "photoUrl" : "/images/people/sergii_khomenko.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://google.com/+SergiiKhomenko",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/khomenko",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/lc0d3r",
+        "name" : "Twitter"
+      } ],
+      "title" : "Speakers"
+    }, {
+      "name" : "Maike Krüger",
+      "photoUrl" : "/images/people/maike_krueger.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/104994582136550694372",
+        "name" : "Google+"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/merri_ka",
+        "name" : "Twitter"
+      } ],
+      "title" : "Party and happiness"
+    } ],
+    "title" : "Core Team"
+  } ],
+  "tickets" : {
+    "elements" : [ {
+      "currency" : "€",
+      "ends" : "Sep 8",
+      "info" : "First 100 Tickets",
+      "name" : "Early Bird",
+      "price" : 0,
+      "soldOut" : true,
+      "starts" : "October 30"
+    }, {
+      "currency" : "€",
+      "ends" : "November 20",
+      "info" : "Another 100 tickets",
+      "name" : "Lazy Bird",
+      "price" : 0,
+      "soldOut" : false,
+      "starts" : "October 30"
+    }, {
+      "currency" : "€",
+      "ends" : "November 25",
+      "name" : "Last Chance",
+      "price" : 0,
+      "soldOut" : false,
+      "starts" : "November 20"
+    } ],
+    "url" : "https://www.eventbrite.com/e/devfest-bayern-tickets-38083787634"
+  },
+  "videos" : [ {
+    "speakers" : "Jakub Škvára",
+    "thumbnail" : "/images/sessions/116.JPG",
+    "title" : "Polymer vs other libraries",
+    "youtubeId" : "-UEURYYVCmg"
+  } ]
+}
