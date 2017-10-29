@@ -24,7 +24,7 @@ deploy:
 - provider: firebase
   skip_cleanup: true
   on:
-    branch: bayern.devfest/2017
+    branch: master
   project: hoverboard
   token:
     secure: 1TWxusnelrT8mq5tK5gCdEeqsFyv2GJbZ5HW1NnxA1VLbNLQxH6+hwxTH+u3WbuZxBEUT2JVf3YSYaYqaoZVdrv2862OGBL8JZGZPrRWVc0ngBJFYuON7nA5yZmwG9SRESe1wcuc7ns3SdXHUjhtPYeiO686yDvAfdUQzzI/0nCNW/e4q2Kng9qoHjdkym9Wg5rmmQ0gwmvIKCvJn6pSn2on7OIiCx5Nss3kM3dM8GFHpiJL9RYRuk+WxEmROA6G9HBuF+lL3cEZfoCwzlFR2g+i8c/u0mn74M3K1FGSyJDMDTpg7PcE9HsnvKyqIYZW8fU5KHoGyIvT5gLpdCL3/03H8rmJJW8SMvyVQnc8sUazW9cg+c5OeJb3TaysmCDgFkg/4itqd3G+DgF+jtOPEsJjL/AcPhXp+BOyIFmb0YlOW6pbqgRuObbf1N2Vah8ikFTnXbM3aIcqgDlsf/bfA7LLmhtKOkolUf/z3gsIZhRi4G2f7UGy0JPXTpTNblgGZBgCul7D302tBmKbCmYYq3DY0uEraQwjtrHsqb/ZiA9RkoOkpZ/QG4EJen81YmQj4CA9FDM7muMAl7nTpJbuzTvRT9aTK6UpM+8kRibJ9rcE/t5f7mhl4tpxaFQ/zunp4zy+HiEO6yhSqMSEgLKatPJxC5x7a/RbIlidGNSTnpw=
