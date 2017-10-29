@@ -9,15 +9,15 @@
     "title" : "Template Creator"
   }, {
     "logos" : [ {
-      "logoUrl": "../images/partner-quartett-logo.svg",
-      "name": "Quartett mobile",
-      "url": "https://www.quartett-mobile.de",
-      "width": 370
-    },{
-      "logoUrl": "../images/partner-snappmobile-logo.svg",
-      "name": "SnappMobile",
-      "url": "https://www.snappmobile.io",
-      "width": 370
+      "logoUrl" : "../images/partner/quartett-logo.svg",
+      "name" : "Quartett mobile",
+      "url" : "https://www.quartett-mobile.de",
+      "width" : 370
+    }, {
+      "logoUrl" : "../images/partner/snappmobile-logo.svg",
+      "name" : "SnappMobile",
+      "url" : "https://www.snappmobile.io",
+      "width" : 370
     } ],
     "title" : "Partner"
   } ],
