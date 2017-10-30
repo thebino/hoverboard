@@ -142,7 +142,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 5 ],
-      "tags" : [ "Misc." ],
+      "tags" : [ "General" ],
       "title" : "Project Avatar - Telepresence robotics with Nao and Kinect"
     },
     "108" : {
@@ -162,7 +162,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 7 ],
-      "tags" : [ "Misc.", "VR"],
+      "tags" : [ "General", "VR"],
       "title" : "Google Tango - Getting started with augmented reality"
     },
     "110" : {
@@ -192,7 +192,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 9 ],
-      "tags" : [ "machine-learning" ],
+      "tags" : [ "Machine-Learning" ],
       "title" : "The Hitchhiker's Guide to Tensorflow: from Tensors to running models in production"
     },
     "113" : {
@@ -212,7 +212,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 11 ],
-      "tags" : [ "machine-learning" ],
+      "tags" : [ "Machine-Learning" ],
       "title" : "Using a trained model on your mobile device"
     },
     "115" : {
@@ -232,7 +232,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 12 ],
-      "tags" : [ "Misc" ],
+      "tags" : [ "General" ],
       "title" : "Writing apps for the Google Assistant"
     },
     "117" : {
@@ -281,7 +281,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 17 ],
-      "tags" : [ "Misc.", "IoT"],
+      "tags" : [ "General", "IoT"],
       "title" : "A Semantic Internet of Things"
     },
     "122" : {
@@ -412,7 +412,7 @@
       "link" : "http://parrotsonjava.com",
       "name" : "Blog"
     } ],
-    "tags" : [ "Misc.", "Augmented Reality" ],
+    "tags" : [ "General", "Augmented Reality" ],
     "title" : ""
   }, {
     "bio" : "Soon after Markus Junginger became one of the first Android app developers in 2007, he started open source libraries like EventBus and greenDAO. With 25,000 GitHub stars he’s among the top 1% of Java&Android developers. He’s a high performance fanatic and has an ongoing love/hate relationship with object persistence since he came across Hibernate in his previous live.",
@@ -484,7 +484,7 @@
       "link" : "https://twitter.com/lc0d3r",
       "name" : "Twitter"
     } ],
-    "tags" : [ "Machine Learning" ],
+    "tags" : [ "Machine-Learning" ],
     "title" : "Android Developer"
   }, {
     "bio" : "Software engineer with 6+ years experience in mobile development. Currently working as Android developer at Freeletics GmbH (Munich, Germany).",
@@ -520,7 +520,7 @@
       "link" : "https://www.youtube.com/watch?v=9ev3xTDEhtw",
       "name" : "Blog"
     } ],
-    "tags" : [ "Machine Learning" ],
+    "tags" : [ "Machine-Learning" ],
     "title" : "Technology Strategist"
   }, {
     "badges" : [ {
@@ -545,7 +545,7 @@
       "link" : "http://www.wolfram-rittmeyer.de",
       "name" : "Blog"
     } ],
-    "tags" : [ "Misc." ],
+    "tags" : [ "General" ],
     "title" : ""
   }, {
     "bio" : "Eugene has been a Kotlin fun for years, and completed his first production Kotlin code back in 2013. He is passionate about programming, languages, technologies and making this world better. Eugene is a software developer at JetBrains, he also contributes to many open source projects and speaks on Kotlin, Java, GoLang, .NET, Web and native code.",
@@ -660,7 +660,7 @@
       "link" : "https://bob.wtf",
       "name" : "Blog"
     } ],
-    "tags" : [ "Web", "Misc." ],
+    "tags" : [ "Web", "General" ],
     "title" : "Creative Technologist"
   } ],
 "team" : [ {
