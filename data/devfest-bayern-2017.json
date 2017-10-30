@@ -161,7 +161,6 @@
       "title" : "Google Tango - Getting started with augmented reality"
     },
     "110" : {
-      "complexity" : "Beginner",
       "id" : 110,
       "image" : "/images/backgrounds/lunch.jpg",
       "title" : "Lunch"
@@ -221,12 +220,9 @@
       "title" : "Writing apps for the Google Assistant"
     },
     "117" : {
-      "complexity" : "Beginner",
       "description" : "Coffee break / snacks",
       "id" : 117,
       "image" : "/images/backgrounds/coffee-break.jpg",
-      "language" : "English",
-      "tags" : [ "General" ],
       "title" : "Coffee break / snacks"
     },
     "118" : {
@@ -266,12 +262,9 @@
       "title" : "A Semantic Internet of Things"
     },
     "122" : {
-      "complexity" : "Beginner",
       "description" : "Social / Beers",
       "id" : 122,
       "image" : "/images/backgrounds/party.jpg",
-      "language" : "English",
-      "tags" : [ "General" ],
       "title" : "Social / Beers"
     }
   },
