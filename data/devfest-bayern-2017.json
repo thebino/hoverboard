@@ -103,6 +103,7 @@
     "103" : {
       "description" : "Keynote",
       "id" : 103,
+      "image" : "/images/backgrounds/keynote.png",
       "title" : "Keynote"
     },
     "104" : {
@@ -156,13 +157,14 @@
       "id" : 109,
       "language" : "English",
       "speakers" : [ 7 ],
-      "tags" : [ "General", "VR"],
+      "tags" : [ "General", "VR" ],
       "title" : "Google Tango - Getting started with augmented reality"
     },
     "110" : {
       "complexity" : "Beginner",
-      "title" : "Lunch",
-      "id" : 110
+      "id" : 110,
+      "image" : "/images/backgrounds/lunch.jpg",
+      "title" : "Lunch"
     },
     "111" : {
       "complexity" : "Intermediate",
@@ -222,6 +224,7 @@
       "complexity" : "Beginner",
       "description" : "Coffee break / snacks",
       "id" : 117,
+      "image" : "/images/backgrounds/coffee-break.jpg",
       "language" : "English",
       "tags" : [ "General" ],
       "title" : "Coffee break / snacks"
@@ -259,13 +262,14 @@
       "id" : 121,
       "language" : "English",
       "speakers" : [ 17 ],
-      "tags" : [ "General", "IoT"],
+      "tags" : [ "General", "IoT" ],
       "title" : "A Semantic Internet of Things"
     },
     "122" : {
       "complexity" : "Beginner",
       "description" : "Social / Beers",
       "id" : 122,
+      "image" : "/images/backgrounds/party.jpg",
       "language" : "English",
       "tags" : [ "General" ],
       "title" : "Social / Beers"
@@ -640,7 +644,7 @@
     "tags" : [ "Web", "General" ],
     "title" : "Creative Technologist"
   } ],
-"team" : [ {
+  "team" : [ {
     "members" : [ {
       "name" : "Benjamin Stürmer",
       "photoUrl" : "/images/people/benjamin_stuermer.jpg",
