@@ -162,7 +162,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 7 ],
-      "tags" : [ "Misc." ],
+      "tags" : [ "Misc.", "VR"],
       "title" : "Google Tango - Getting started with augmented reality"
     },
     "110" : {
@@ -192,7 +192,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 9 ],
-      "tags" : [ "Machine Learning" ],
+      "tags" : [ "machine-learning" ],
       "title" : "The Hitchhiker's Guide to Tensorflow: from Tensors to running models in production"
     },
     "113" : {
@@ -202,7 +202,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 10 ],
-      "tags" : [ "Misc." ],
+      "tags" : [ "Android" ],
       "title" : "Dagger Android module"
     },
     "114" : {
@@ -212,7 +212,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 11 ],
-      "tags" : [ "Machine Learning" ],
+      "tags" : [ "machine-learning" ],
       "title" : "Using a trained model on your mobile device"
     },
     "115" : {
@@ -281,7 +281,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 18 ],
-      "tags" : [ "Misc." ],
+      "tags" : [ "Misc.", "IoT"],
       "title" : "A Semantic Internet of Things"
     },
     "122" : {
