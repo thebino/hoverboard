@@ -167,13 +167,8 @@
     },
     "110" : {
       "complexity" : "Beginner",
-      "description" : "Lunch",
-      "id" : 110,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
-      "speakers" : [ 7 ],
-      "tags" : [ "General" ],
-      "title" : "Lunch"
+      "title" : "Lunch",
+      "id" : 110
     },
     "111" : {
       "complexity" : "Intermediate",
