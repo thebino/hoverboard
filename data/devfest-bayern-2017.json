@@ -162,7 +162,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 7 ],
-      "tags" : [ "Misc." ],
+      "tags" : [ "Misc.", "VR"],
       "title" : "Google Tango - Getting started with augmented reality"
     },
     "110" : {
@@ -192,7 +192,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 9 ],
-      "tags" : [ "Machine Learning" ],
+      "tags" : [ "machine-learning" ],
       "title" : "The Hitchhiker's Guide to Tensorflow: from Tensors to running models in production"
     },
     "113" : {
@@ -202,7 +202,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 10 ],
-      "tags" : [ "Misc." ],
+      "tags" : [ "Android" ],
       "title" : "Dagger Android module"
     },
     "114" : {
@@ -212,7 +212,7 @@
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 11 ],
-      "tags" : [ "Machine Learning" ],
+      "tags" : [ "machine-learning" ],
       "title" : "Using a trained model on your mobile device"
     },
     "115" : {
@@ -270,7 +270,7 @@
       "id" : 120,
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
-      "speakers" : [ 16, 17 ],
+      "speakers" : [ 15, 16 ],
       "tags" : [ "Web" ],
       "title" : "How to bring a product to reality in a few days: design-dev cooperation and fast Android prototyping"
     },
@@ -280,8 +280,8 @@
       "id" : 121,
       "language" : "English",
       "presentation" : "https://speakerdeck.com/",
-      "speakers" : [ 18 ],
-      "tags" : [ "Misc." ],
+      "speakers" : [ 17 ],
+      "tags" : [ "Misc.", "IoT"],
       "title" : "A Semantic Internet of Things"
     },
     "122" : {
@@ -602,7 +602,7 @@
     "company" : "Snapp Mobile",
     "country" : "Munich, Germany",
     "featured" : true,
-    "id" : 16,
+    "id" : 15,
     "name" : "Lehtimäki, Juhani",
     "photoUrl" : "/images/people/juhani_lehtimaeki.jpg",
     "shortBio" : "",
@@ -622,7 +622,7 @@
     "company" : "Snapp Mobile",
     "country" : "Germany",
     "featured" : true,
-    "id" : 17,
+    "id" : 16,
     "name" : "Pierluigi Rufo",
     "photoUrl" : "/images/people/pierluigi_rufo.jpg",
     "shortBio" : "",
@@ -647,7 +647,7 @@
     "company" : "Kubrickology",
     "country" : "Amsterdam, North Holland",
     "featured" : true,
-    "id" : 18,
+    "id" : 17,
     "name" : "Bob van Luijt",
     "photoUrl" : "/images/people/bob_van_luijt.jpg",
     "shortBio" : "",
