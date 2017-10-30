@@ -110,7 +110,6 @@
       "description" : "At I/O this year, the Room persistence library was introduced as part of the Architecture Components effort. In this talk we'll look at what Room has to offer, why and when you should use it and how it compares to existing solutions. We'll also take a look how Room gets the job done by looking at its internals.r",
       "id" : 104,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 3 ],
       "tags" : [ "Android" ],
       "title" : "Room: the blessed object mapper"
@@ -120,7 +119,6 @@
       "description" : "What is the first thing that comes to your mind when you are starting to develop your product? You need to think about all sort of features. How you are going to grow your app. Engage your audience and make money in the process, right? What if you could choose a platform to build your app with confidence, without the need of managing infrastructure, trusted by companies like The New York Times, The Economist, Shazam and much more. Firebase gives you the tools and infrastructure you need to build better apps and grow businesses. Join this talk and learn how to overcome the challenges of build extraordinary web apps using Firebase.",
       "id" : 105,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 4 ],
       "tags" : [ "Web" ],
       "title" : "Let Firebase help you to build better Web apps"
@@ -130,7 +128,6 @@
       "description" : "Good use of animations can not only help make your app’s UI more intuitive, but can also build emotional attachment with your users. Mark Allison will explore the subtleties of why some animations work where others don’t; The distinct components of effective animation; and, of course, some detailed worked examples of how to create amazing Android animations.",
       "id" : 106,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 1 ],
       "tags" : [ "Android" ],
       "title" : "I like the way you move"
@@ -140,7 +137,6 @@
       "description" : "Using humanoid robots, virtual reality glasses and 3D camera sensors you can experience the world through the eyes of a robot and control it via gestures. The hardware hacking team of TNG Technology Consulting has built a telepresence robotics system based on a Nao robot, an Oculus Rift and a Kinect One. Using these components you can realize an immersive 'out-of-body' experience - similar to that of the film 'Avatar'. This talk shows how easy it is to program the robot using Python or Java. We will do this by some live coding examples. Following a live demonstration of the showcase we will guide you through the complete program flow of the telepresence system. The speakers will share some insights about the challenges they faced during its implementation. The history of telepresence robotics, current trends and examples for real world fields of application will also be focused.",
       "id" : 107,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 5 ],
       "tags" : [ "General" ],
       "title" : "Project Avatar - Telepresence robotics with Nao and Kinect"
@@ -150,7 +146,6 @@
       "description" : "ObjectBox is a new mobile database designed for objects and performance. It supports reactive programming, lazy and eager relations, Kotlin, and POJOs. The Speaker Markus Junginger is also the developer behind the successful open source libraries EventBus and greenDAO, used by 25% of top-500 apps. Although greenDAO is still the most starred Android ORM on GitHub, Markus left SQLite and ORMs behind - learn why he created a new database without rows and columns.",
       "id" : 108,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 6 ],
       "tags" : [ "Android" ],
       "title" : "CRUD faster with ObjectBox"
@@ -160,27 +155,20 @@
       "description" : "This talk will give you an introduction to Googles augmented reality SDK Tango. The session will start with a few example ar apps to give everybody an impression what augmented reality is. After that we will have a closer look on the special device hardware sensors every tango enabled smartphone must have. We will explore the three core tango technologies - motion tracking, area learning and depth perception followed by  some examples showing the tango Java SDK. We will learn about occlusion to make the ar effect even more stunning. If nothing goes wrong, the session will end with a short live demo.",
       "id" : 109,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 7 ],
       "tags" : [ "General", "VR"],
       "title" : "Google Tango - Getting started with augmented reality"
     },
     "110" : {
       "complexity" : "Beginner",
-      "description" : "Lunch",
-      "id" : 110,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
-      "speakers" : [ 7 ],
-      "tags" : [ "General" ],
-      "title" : "Lunch"
+      "title" : "Lunch",
+      "id" : 110
     },
     "111" : {
       "complexity" : "Intermediate",
       "description" : "In this session, we cover what's needed to bring your Media Streaming app to the living room the easiest way possible: we’ll see how to create high performing Android Media Streaming apps in MINUTES using a new development tool Amazon has created: the Fire App Builder template for Android Apps for TV (http://bit.ly/FireAppBuilderDoc). Using this new tool introduced by Amazon, we’ll understand how to easily connect a native Android app to video streaming services with just a few lines of code! -Build a full-fledged Android app for TV in a few minutes by connecting it to a feed - Customize the template - Add modules for IAP, Subscription, Live Streaming, Ads and much more - Submit the app!",
       "id" : 111,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 8 ],
       "tags" : [ "Android" ],
       "title" : "Developing Media Streaming Apps for TV the Easy Way"
@@ -190,7 +178,6 @@
       "description" : "The Hitchhiker's Guide to Tensorflow: from Tensors to running models in production",
       "id" : 112,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 9 ],
       "tags" : [ "Machine-Learning" ],
       "title" : "The Hitchhiker's Guide to Tensorflow: from Tensors to running models in production"
@@ -200,7 +187,6 @@
       "description" : "Dependency injection is a powerful pattern. By providing different implementations, the behavior of the app can be radically changed. Another place where it shines is testing. When testing a module, fake or mocked objects can be injected to ensure the module is tested in isolation. The most popular dependency injection framework for Android is Dagger 2. It gives us powerful functionality for managing dependencies.  However, until recently it required some ugly boilerplate code. In this talk, we will explore the usage of the new Dagger Android functionality. We will: - go through the Dagger Android module and will see how it can be used in Android applications; - compare the differences between how code looks like with using this module and usual way of using Dagger in Android; - talk about how this module helps with integration tests.e",
       "id" : 113,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 10 ],
       "tags" : [ "Android" ],
       "title" : "Dagger Android module"
@@ -210,7 +196,6 @@
       "description" : "Apple announced at WWDC17 with iOS 11 CoreML. This allows you to integrate trained machine learning models into your iOS app. It has a minimizes memory footprint and power consumption and is optimized for on-device performance. In my talk I'll show how to train a very simple model and how to integrate it into a mobile app. Another demo will use InceptionV3 as pre-trained model and ARKit for augmented reality visualization.",
       "id" : 114,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 11 ],
       "tags" : [ "Machine-Learning" ],
       "title" : "Using a trained model on your mobile device"
@@ -220,7 +205,6 @@
       "description" : "How do you satisfy your users? How do you make your app users happy? How can I make them use my awesome smart app and/or make them come back... But who are my app users, and what do they do with my app or want to see happen? Wiebe Elsinga will share is experience on how to satisfy your users and know what they want",
       "id" : 115,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 2 ],
       "tags" : [ "Android" ],
       "title" : "Delight(ing) your user(s)"
@@ -230,7 +214,6 @@
       "description" : "With Google Home being available in Germany since August and the Assistant being available on most Android and iOS devices it’s time to start developing apps for it. In this talk Wolfram Rittmeyer is going to talk about the Actions on Google SDK. As with Android we as developers deal with intents representing certain types of user input. And we have to create appropriate reactions to them. You will see how to: - make the assistant speak - ask for permissions - display carousels, cards or lists on devices that support a GUI - detect device specific capabilities - offer different content based on those capabilities. Google offers two ways to create apps for the assitant. You will hear about when to use the Assistant SDK and where it differs from creating apps with api.ai. And don’t forget: Just because it’s “just voice” doesn’t mean that you can neglect usability. There’s a whole set of recommendations and best practices for conversational interfaces. This talk covers a sample few of them to get you started and to make you mindful of this topic.",
       "id" : 116,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 12 ],
       "tags" : [ "General" ],
       "title" : "Writing apps for the Google Assistant"
@@ -240,7 +223,6 @@
       "description" : "Coffee break / snacks",
       "id" : 117,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "tags" : [ "General" ],
       "title" : "Coffee break / snacks"
     },
@@ -249,7 +231,6 @@
       "description" : "Welcome to Kotlin, the open source, statically typed programming language for multi platform applications. This gonna be a big and exciting journey. To start with, we have an introduction to the language, no matter you target native, JVM, Android or JavaScript. It covers basic syntax, type inference, lambdas, inline functions, data classes, statically typed DSLs, and much more. An introduction is impossible without stories and future plans. In addition I’ll share my own Kotlin experience and several open source projects I created with it.",
       "id" : 118,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 13 ],
       "tags" : [ "Android" ],
       "title" : "Kotlin in 42 minutes"
@@ -259,7 +240,6 @@
       "description" : "An application’s performance significantly influences its acceptance and therefore also its commercial success. However, there is no simple adjustable screw for performance tuning in single-page applications: several influencing factors need to be considered. Angular addresses these aspects with its architecture and offers some possibilities to provide breathtaking performance. This session shows how to use these possibilities by means of a systematically optimized application. Attendees learn how to leverage Ahead-of-Time Compilation (AOT), Tree Shaking and Lazy Loading to dramatically improve application startup performance. The OnPush optimization strategy to speed up data binding performance in your solutions is also demonstrated. Furthermore, Service Worker for caching and instant loading is covered, as well as Server-Side Rendering to improve the perceived loading time.",
       "id" : 119,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 14 ],
       "tags" : [ "Web" ],
       "title" : "Through the Sound Barrier: High-Performance Applications with Angular"
@@ -269,7 +249,6 @@
       "description" : "How to bring a product to reality in a few days: design-dev cooperation and fast Android prototyping",
       "id" : 120,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 15, 16 ],
       "tags" : [ "Web" ],
       "title" : "How to bring a product to reality in a few days: design-dev cooperation and fast Android prototyping"
@@ -279,7 +258,6 @@
       "description" : "In some forms of philosophy, it is believed that language determines the scope of human intelligence. If there are no words to express it, it can not be understood. On the web, this is something that is known for quite some time. The Semantic Web, coined by Tim Berners-Lee, was a first and important step in gathering the vast amount of knowledge available on the web.In this talk, we will look not only at the digital but the physical. How can the Internet of Things help us to create a knowledge repository to understand the world? How can we use tools like the cloud (GCP), graph-databases and schema.org (Google’s RDF-IoT extension) and what can we learn from social networks like Facebook and Google+ to truly understand our world. We will look at classical IoT and new forms of IoT. 'Devices are so 2017, the future is a semantic Internet of Things'",
       "id" : 121,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "speakers" : [ 17 ],
       "tags" : [ "General", "IoT"],
       "title" : "A Semantic Internet of Things"
@@ -289,7 +267,6 @@
       "description" : "Social / Beers",
       "id" : 122,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/",
       "tags" : [ "General" ],
       "title" : "Social / Beers"
     }
