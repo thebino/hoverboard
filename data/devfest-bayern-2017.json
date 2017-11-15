@@ -758,7 +758,7 @@
       "info" : "Another 100 tickets",
       "name" : "Lazy Bird",
       "price" : 0,
-      "soldOut" : false,
+      "soldOut" : true,
       "starts" : "October 30"
     }, {
       "currency" : "€",
