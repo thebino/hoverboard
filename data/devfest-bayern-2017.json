@@ -18,6 +18,11 @@
       "name" : "SnappMobile",
       "url" : "https://www.snappmobile.io",
       "width" : 370
+    }, {
+      "logoUrl" : "../images/partner/waipu-logo.svg",
+      "name" : "Waipu.tv",
+      "url" : "https://www.waipu.tv",
+      "width" : 370
     } ],
     "title" : "Partner"
   } ],
