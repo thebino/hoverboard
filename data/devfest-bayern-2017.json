@@ -34,9 +34,13 @@
       "sessions" : [ [ 101 ] ],
       "startTime" : "09:00"
     }, {
-      "endTime" : "10:55",
+      "endTime" : "10:15",
       "sessions" : [ [ 102 ] ],
-      "startTime" : "10:30"
+      "startTime" : "10:00"
+    }, {
+	  "endTime" : "10:55",
+      "sessions" : [ [ 103 ] ],
+      "startTime" : "10:15"
     }, {
       "endTime" : "11:50",
       "sessions" : [ [ 104 ], [ 105 ] ],
