@@ -38,7 +38,7 @@
       "sessions" : [ [ 102 ] ],
       "startTime" : "10:00"
     }, {
-	  "endTime" : "10:55",
+      "endTime" : "10:55",
       "sessions" : [ [ 103 ] ],
       "startTime" : "10:15"
     }, {
@@ -824,6 +824,16 @@
     "70Tk2SYoadO9xdkC3VG0p9hefsi2" : {
       "105" : true,
       "107" : true
+    },
+    "HwcB7NdZb3PtrwCtyGWkhy61Q153" : {
+      "104" : true,
+      "107" : true,
+      "108" : true,
+      "112" : true,
+      "114" : true,
+      "115" : true,
+      "119" : true,
+      "121" : true
     },
     "PFnWcbn8a5RuaF7xtj9CXdedOSA3" : {
       "112" : true,
