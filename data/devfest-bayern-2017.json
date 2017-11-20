@@ -108,6 +108,8 @@
     "103" : {
       "description" : "Keynote",
       "id" : 103,
+      "language" : "English",
+      "speakers" : [ 18 ],
       "image" : "/images/backgrounds/keynote.jpg",
       "title" : "Keynote"
     },
@@ -641,6 +643,26 @@
     } ],
     "tags" : [ "Web", "General" ],
     "title" : "Creative Technologist"
+  }, {
+    "bio" : "Silvia Bormüller is an independent User Experience / User Interface Designer from Munich and also an official Sketch App Ambassador for Germany. Besides she is the founder and organizer of Sketch and Framer Meetups in Munich. She is giving workshops regularly on Sketch & Framer (Mobxcon, UX Alive, Berlin Lean Prototyping etc). Silvia has long year experience in designing and prototyping for mobile and web and has helped numerous clients building and improving their apps and websites.",
+    "company" : "Freelance Designer / Developer",
+    "country" : "Munich, Germany",
+    "featured" : true,
+    "id" : 18,
+    "name" : "Silvia Bormüller",
+    "photoUrl" : "/images/people/silvia_bormueller.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/svorklab",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://dribbble.com/svork",
+      "name" : "Blog"
+    } ],
+    "tags" : [ "General" ],
+    "title" : "Discover the power of code in design"
   } ],
   "team" : [ {
     "members" : [ {
