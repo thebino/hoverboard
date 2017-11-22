@@ -82,9 +82,13 @@
       "sessions" : [ [ 120 ], [ 121 ] ],
       "startTime" : "17:20"
     }, {
+      "endTime" : "18:15",
+      "sessions" : [ [ 123 ] ],
+      "startTime" : "18:00"
+    }, {
       "endTime" : "23:00",
       "sessions" : [ [ 122 ] ],
-      "startTime" : "18:00"
+      "startTime" : "18:15"
     } ],
     "tracks" : [ {
       "title" : "Mobile"
@@ -108,9 +112,9 @@
     "103" : {
       "description" : "Keynote",
       "id" : 103,
+      "image" : "/images/backgrounds/keynote.jpg",
       "language" : "English",
       "speakers" : [ 18 ],
-      "image" : "/images/backgrounds/keynote.jpg",
       "title" : "Keynote"
     },
     "104" : {
@@ -273,6 +277,12 @@
       "id" : 122,
       "image" : "/images/backgrounds/party.jpg",
       "title" : "Social / Beers"
+    },
+    "123" : {
+      "description" : "The organizers will thank all attendees and perhaps someone will get a surprise.",
+      "id" : 123,
+      "image" : "/images/backgrounds/opening.jpg",
+      "title" : "Thank you"
     }
   },
   "speakers" : [ null, {
@@ -838,6 +848,22 @@
     "PFnWcbn8a5RuaF7xtj9CXdedOSA3" : {
       "112" : true,
       "114" : true
+    },
+    "fpAS2vxz1yShWXMYGkZBFkEQs3w2" : {
+      "101" : true,
+      "102" : true,
+      "103" : true,
+      "104" : true,
+      "106" : true,
+      "108" : true,
+      "110" : true,
+      "112" : true,
+      "113" : true,
+      "116" : true,
+      "117" : true,
+      "118" : true,
+      "120" : true,
+      "122" : true
     },
     "gLELevBmhdWnyfDNZYDfCQdYEFf2" : {
       "105" : true,
