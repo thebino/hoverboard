@@ -260,7 +260,7 @@
       "id" : 120,
       "language" : "English",
       "speakers" : [ 15, 16 ],
-      "tags" : [ "Web" ],
+      "tags" : [ "Android" ],
       "title" : "How to bring a product to reality in a few days: design-dev cooperation and fast Android prototyping"
     },
     "121" : {
@@ -812,6 +812,10 @@
     "url" : "https://www.eventbrite.com/e/devfest-bayern-tickets-38083787634"
   },
   "userSessions" : {
+    "0kbl2gw0UvUAgUKDVl7wBYEuq3N2" : {
+      "118" : true,
+      "121" : true
+    },
     "119lEL02hibLBPBLIyuo3ys17mY2" : {
       "101" : true,
       "102" : true,
@@ -826,28 +830,231 @@
       "117" : true,
       "118" : true,
       "120" : true,
-      "122" : true
+      "122" : true,
+      "123" : true
+    },
+    "28fEUFYiduhZsTExRXmdf1MF3NL2" : {
+      "104" : true,
+      "106" : true,
+      "109" : true,
+      "112" : true,
+      "113" : true,
+      "116" : true,
+      "118" : true,
+      "120" : true
     },
     "2NWF1oU81OQjUnDgYvGW7vSh2Go1" : {
       "112" : true
+    },
+    "2UD7FtucBlgdtN9B39PBh4oVfQa2" : {
+      "104" : true,
+      "106" : true,
+      "108" : true,
+      "113" : true,
+      "115" : true,
+      "116" : true,
+      "118" : true,
+      "120" : true
+    },
+    "2l39pXcIlbWfxSDhlb1gvREV2zr1" : {
+      "105" : true,
+      "109" : true,
+      "118" : true,
+      "120" : true
+    },
+    "3Rbd2Vc7cRPk3IDppKlc0Qtty9d2" : {
+      "102" : true,
+      "103" : true,
+      "104" : true,
+      "106" : true,
+      "108" : true,
+      "110" : true,
+      "111" : true,
+      "113" : true,
+      "115" : true,
+      "117" : true,
+      "118" : true,
+      "120" : true,
+      "123" : true
+    },
+    "3sDOyHFlvTO6ibakzcKEfq4KT1C2" : {
+      "104" : true,
+      "106" : true,
+      "109" : true,
+      "112" : true,
+      "114" : true,
+      "115" : true,
+      "116" : true,
+      "118" : true,
+      "120" : true
+    },
+    "4RYRl706hPcRrIjpvov8wSvUeGd2" : {
+      "109" : true
     },
     "70Tk2SYoadO9xdkC3VG0p9hefsi2" : {
       "105" : true,
       "107" : true
     },
+    "8ZRn2sa1dcbFXAyfVM92bTwOO4H3" : {
+      "101" : true,
+      "102" : true,
+      "103" : true,
+      "104" : true,
+      "107" : true,
+      "109" : true,
+      "112" : true,
+      "114" : true,
+      "116" : true,
+      "118" : true,
+      "121" : true
+    },
+    "B04uJXxdoSUj5jN7sgkDozhXyfo1" : {
+      "113" : true
+    },
+    "DliZuUXYapX9KNeP6nfZij6XxK72" : {
+      "102" : true
+    },
+    "E0v81MSbxlbme53pYOvhZHWRlPJ2" : {
+      "103" : true,
+      "105" : true,
+      "107" : true,
+      "109" : true,
+      "112" : true,
+      "114" : true,
+      "117" : true,
+      "119" : true,
+      "121" : true
+    },
+    "GrVWBRhufheJpuMoiOUzAcovMAk2" : {
+      "105" : true,
+      "106" : true,
+      "107" : true,
+      "109" : true,
+      "110" : true,
+      "111" : true,
+      "118" : true,
+      "119" : true
+    },
+    "HJoP0qbfR1SnV8lND77Ve41Morn2" : {
+      "105" : true,
+      "107" : true,
+      "109" : true,
+      "111" : true,
+      "113" : true,
+      "116" : true,
+      "118" : true,
+      "120" : true
+    },
     "HwcB7NdZb3PtrwCtyGWkhy61Q153" : {
       "104" : true,
       "107" : true,
-      "108" : true,
       "112" : true,
       "114" : true,
       "115" : true,
       "119" : true,
+      "120" : true
+    },
+    "IlF6qq80QeXz4lTiAzBzMoz86jE2" : {
+      "104" : true,
+      "107" : true,
+      "112" : true,
+      "114" : true,
+      "119" : true
+    },
+    "IpfSmZwJhEUP41sNf2zNeC9OnIJ3" : {
+      "106" : true,
+      "113" : true,
+      "120" : true
+    },
+    "JWCgwmdvlcg2HbknGZOrCLFdnr72" : {
+      "101" : true,
+      "102" : true,
+      "103" : true,
+      "109" : true,
+      "110" : true,
+      "112" : true,
+      "118" : true
+    },
+    "JpvXTmU9zYYrhAJxH6Kqd5pTLyT2" : {
+      "112" : true,
+      "118" : true,
+      "120" : true
+    },
+    "LWhoWJdMfbS5rtug9X89WCTcAdu2" : {
+      "104" : true,
+      "106" : true,
+      "109" : true,
+      "112" : true,
+      "115" : true,
+      "119" : true,
       "121" : true
+    },
+    "PBOUi6sjBWbZ3lsvaMd2y9oeKK73" : {
+      "104" : true,
+      "107" : true,
+      "109" : true,
+      "113" : true,
+      "118" : true,
+      "120" : true
     },
     "PFnWcbn8a5RuaF7xtj9CXdedOSA3" : {
       "112" : true,
       "114" : true
+    },
+    "TdQgjMnaHHbtCPoqMq0D3OqCudl2" : {
+      "101" : true,
+      "102" : true,
+      "103" : true,
+      "105" : true,
+      "110" : true,
+      "116" : true,
+      "117" : true,
+      "121" : true,
+      "122" : true,
+      "123" : true
+    },
+    "Xib56FvlXLNdysBqHdSftxW1wdG2" : {
+      "103" : true,
+      "105" : true,
+      "106" : true,
+      "111" : true,
+      "114" : true,
+      "115" : true,
+      "118" : true,
+      "120" : true
+    },
+    "ahSW0A0dLBO8Ka2Y85x2r2HVtHV2" : {
+      "101" : true,
+      "102" : true,
+      "103" : true,
+      "104" : true,
+      "106" : true,
+      "108" : true,
+      "110" : true,
+      "111" : true,
+      "113" : true,
+      "115" : true,
+      "118" : true,
+      "120" : true,
+      "122" : true,
+      "123" : true
+    },
+    "bRNBDziYinP3uCoktSrl97TA5Jr2" : {
+      "102" : true,
+      "103" : true,
+      "104" : true,
+      "105" : true,
+      "107" : true,
+      "109" : true,
+      "110" : true,
+      "112" : true,
+      "114" : true,
+      "116" : true,
+      "117" : true,
+      "118" : true,
+      "120" : true,
+      "122" : true,
+      "123" : true
     },
     "fpAS2vxz1yShWXMYGkZBFkEQs3w2" : {
       "101" : true,
@@ -875,6 +1082,33 @@
       "119" : true,
       "120" : true
     },
+    "hPWXKSmBQFbQWVCkWmSUWTVKBMp2" : {
+      "101" : true,
+      "102" : true,
+      "103" : true,
+      "105" : true,
+      "106" : true,
+      "112" : true,
+      "118" : true
+    },
+    "iX4oPpMCWHXWQupJVUIIrsS3Zwt2" : {
+      "105" : true,
+      "112" : true,
+      "114" : true,
+      "116" : true,
+      "119" : true,
+      "120" : true
+    },
+    "lt6qioTh5Sh7GjslUGjp9ZJ5Nt33" : {
+      "104" : true,
+      "107" : true,
+      "109" : true,
+      "112" : true,
+      "113" : true,
+      "116" : true,
+      "118" : true,
+      "121" : true
+    },
     "ole7UL7KSvMGIM4iRJchUo3qg7z1" : {
       "101" : true,
       "102" : true,
@@ -888,6 +1122,51 @@
       "117" : true,
       "119" : true,
       "121" : true
+    },
+    "ondcQuPi6Mhp6QTt3k6WX4So2eB2" : {
+      "101" : true,
+      "102" : true,
+      "103" : true,
+      "105" : true,
+      "107" : true,
+      "109" : true,
+      "110" : true,
+      "111" : true,
+      "114" : true,
+      "116" : true,
+      "117" : true,
+      "119" : true,
+      "120" : true,
+      "122" : true,
+      "123" : true
+    },
+    "q0R7uWpVrGfl3ngif7LE8xXA2H23" : {
+      "101" : true,
+      "102" : true,
+      "103" : true,
+      "104" : true,
+      "112" : true,
+      "118" : true,
+      "120" : true
+    },
+    "xtNYe9RVcNX4XHWncor9VXFP3in2" : {
+      "101" : true,
+      "102" : true,
+      "103" : true,
+      "104" : true,
+      "106" : true,
+      "108" : true,
+      "113" : true,
+      "116" : true,
+      "120" : true
+    },
+    "zfE9joGNoOP74MqPSvb6rco7qs52" : {
+      "110" : true,
+      "112" : true,
+      "114" : true,
+      "116" : true,
+      "117" : true,
+      "122" : true
     }
   },
   "videos" : [ {
