@@ -131,6 +131,7 @@
       "description" : "What is the first thing that comes to your mind when you are starting to develop your product? You need to think about all sort of features. How you are going to grow your app. Engage your audience and make money in the process, right? What if you could choose a platform to build your app with confidence, without the need of managing infrastructure, trusted by companies like The New York Times, The Economist, Shazam and much more. Firebase gives you the tools and infrastructure you need to build better apps and grow businesses. Join this talk and learn how to overcome the challenges of build extraordinary web apps using Firebase.",
       "id" : 105,
       "language" : "English",
+      "presentation" : "https://goo.gl/d9NPDJ",
       "speakers" : [ 4 ],
       "tags" : [ "Web" ],
       "title" : "Let Firebase help you to build better Web apps"
@@ -140,6 +141,7 @@
       "description" : "Good use of animations can not only help make your app’s UI more intuitive, but can also build emotional attachment with your users. Mark Allison will explore the subtleties of why some animations work where others don’t; The distinct components of effective animation; and, of course, some detailed worked examples of how to create amazing Android animations.",
       "id" : 106,
       "language" : "English",
+      "presentation" : "https://github.com/StylingAndroid/PresenterLite/tree/master/Engine/src/main/presentations/move",
       "speakers" : [ 1 ],
       "tags" : [ "Android" ],
       "title" : "I like the way you move"
@@ -199,6 +201,7 @@
       "description" : "Dependency injection is a powerful pattern. By providing different implementations, the behavior of the app can be radically changed. Another place where it shines is testing. When testing a module, fake or mocked objects can be injected to ensure the module is tested in isolation. The most popular dependency injection framework for Android is Dagger 2. It gives us powerful functionality for managing dependencies.  However, until recently it required some ugly boilerplate code. In this talk, we will explore the usage of the new Dagger Android functionality. We will: - go through the Dagger Android module and will see how it can be used in Android applications; - compare the differences between how code looks like with using this module and usual way of using Dagger in Android; - talk about how this module helps with integration tests.e",
       "id" : 113,
       "language" : "English",
+      "presentation" : "https://speakerdeck.com/dkhmelenko/dagger-dot-android-module",
       "speakers" : [ 10 ],
       "tags" : [ "Android" ],
       "title" : "Dagger Android module"
