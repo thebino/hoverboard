@@ -122,6 +122,7 @@
       "description" : "At I/O this year, the Room persistence library was introduced as part of the Architecture Components effort. In this talk we'll look at what Room has to offer, why and when you should use it and how it compares to existing solutions. We'll also take a look how Room gets the job done by looking at its internals.r",
       "id" : 104,
       "language" : "English",
+      "presentation" : "https://drive.google.com/file/d/12MJu-MjQ70WYkkvu57ahnIVrkGT22-cu/view",
       "speakers" : [ 3 ],
       "tags" : [ "Android" ],
       "title" : "Room: the blessed object mapper"
@@ -211,6 +212,7 @@
       "description" : "Apple announced at WWDC17 with iOS 11 CoreML. This allows you to integrate trained machine learning models into your iOS app. It has a minimizes memory footprint and power consumption and is optimized for on-device performance. In my talk I'll show how to train a very simple model and how to integrate it into a mobile app. Another demo will use InceptionV3 as pre-trained model and ARKit for augmented reality visualization.",
       "id" : 114,
       "language" : "English",
+      "presentation" : "https://t.co/grhHm3fIyX",
       "speakers" : [ 11 ],
       "tags" : [ "Machine-Learning" ],
       "title" : "Using a trained model on your mobile device"
@@ -244,6 +246,7 @@
       "description" : "Welcome to Kotlin, the open source, statically typed programming language for multi platform applications. This gonna be a big and exciting journey. To start with, we have an introduction to the language, no matter you target native, JVM, Android or JavaScript. It covers basic syntax, type inference, lambdas, inline functions, data classes, statically typed DSLs, and much more. An introduction is impossible without stories and future plans. In addition I’ll share my own Kotlin experience and several open source projects I created with it.",
       "id" : 118,
       "language" : "English",
+      "presentation" : "https://t.co/4dasmwVTLd",
       "speakers" : [ 13 ],
       "tags" : [ "Android" ],
       "title" : "Kotlin in 42 minutes"
